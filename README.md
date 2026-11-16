@@ -1,3 +1,5 @@
+[![reward](https://make.fun/badge/bring-the-humans-01/Andriyan127/bring-the-humans-makefun/reward.svg)](https://make.fun/bounty/bring-the-humans-01?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-01)
+
 # Bring the humans — a make.fun referral ad
 
 An entry for the make.fun bounty **Bring the humans** (bring-the-humans-01),
